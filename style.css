@@ -1,0 +1,76 @@
+
+.navbar-brand{
+    font-size: 20px;
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+}
+.nav-link{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-weight: bolder;
+}
+.dropdown-item{
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-weight: bolder;
+}
+
+.mb-0{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    color: black;
+    font-weight: bolder;
+}
+
+.carousel-caption{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-weight: bolder;
+    
+}
+
+video{
+    width: 100%;
+    height: 390px;
+}
+
+
+P{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-weight: bolder;
+}
+
+.form-label{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-weight: bolder;
+    
+}
+
+.navbar-collapse{
+    margin-right: 50px;
+}
+
+
+@media (max-width: 360px) { 
+
+  .container-fluid{
+    text-align: center;
+  }
+    
+  .navbar-brand{
+    font-size: 14px;
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+  }
+
+  .nav-item{
+    margin-top: 30px;
+    text-align: center;
+    margin-left: 50px;
+  }
+}
